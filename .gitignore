@@ -2,3 +2,6 @@
 *.DS_Store
 *.key
 *.pyc
+*__pycache__
+*.gitignore
+*.gitattributes
