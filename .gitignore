@@ -1,6 +1,4 @@
-.DS_store
-.ipynb_checkpoints
-不上传
-__pycache__
-.pyc
-.key
+*.ipynb_checkpoints
+*.DS_Store
+*.key
+*.pyc
