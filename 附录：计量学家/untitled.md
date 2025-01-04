@@ -1,0 +1,6 @@
+# RUEY S. TSAY
+[Link: https://faculty.chicagobooth.edu/ruey-s-tsay](https://faculty.chicagobooth.edu/ruey-s-tsay)
+## Intro
+![p](https://faculty.chicagobooth.edu/-/media/faculty/ruey-s-tsay/rueytsayhomepage_500x500.jpg?h=500&w=500&hash=7F422F35BF9DF19A01715E6BD58297A4)
+Ruey Tsay studies business and economic forecasting, big data analysis, risk modeling and management, credit ratings, and process control. Tsay's research aims at finding the dynamic relationships between variables and how to extract information from messy data. He has authored Analysis of Financial Time Series, 3rd Edition, published in 2010 by Wiley; An Introduction to Analysis of Financial Data with R, published in 2012 by Wiley; Multivariate time series analysis with R and Financial Applications, published in 2014 by Wiley; and coauthored A Course in Time Series Analysis, with D. Pena and G. Tiao, published by Wiley in 2001. Tsay has worked as a consultant for numerous American, Chinese, and Taiwanese companies. This experience taught him what works in practice and what does not - knowledge that he shares with students in the classroom. He hopes they learn ideas and methods for extracting information from data, large or small.
+

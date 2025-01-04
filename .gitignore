@@ -1,8 +1,9 @@
-*.ipynb_checkpoints
-*.DS_Store
-*.key
-*.pyc
-*__pycache__
-*.gitignore
-*.gitattributes
-*备课
+.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+.DS_Store?
+_build/
+postBuild
+.RData
+.Rhistory
+课程信息/

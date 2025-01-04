@@ -7,7 +7,7 @@ Python计量经济学
 
 ## 课件示例
 
-![simple_regression.png](3_一元线性回归的Python应用/image/simple_regression.png)
+![logo.png](3_一元线性回归的Python应用/image/simple_regression.png)
 
 
 ![多元回归总体](4_多元线性回归的Python应用/image/多元回归总体.png)
